@@ -1,0 +1,11 @@
+/Users/siddmarv/Downloads/StudentManagementSystemFinal/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/siddmarv/Downloads/StudentManagementSystemFinal/Domain/bin/Debug/net8.0/Domain.dll
+/Users/siddmarv/Downloads/StudentManagementSystemFinal/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/siddmarv/Downloads/StudentManagementSystemFinal/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/siddmarv/Downloads/StudentManagementSystemFinal/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/siddmarv/Downloads/StudentManagementSystemFinal/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/siddmarv/Downloads/StudentManagementSystemFinal/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/siddmarv/Downloads/StudentManagementSystemFinal/Domain/obj/Debug/net8.0/Domain.dll
+/Users/siddmarv/Downloads/StudentManagementSystemFinal/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/siddmarv/Downloads/StudentManagementSystemFinal/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/siddmarv/Downloads/StudentManagementSystemFinal/Domain/obj/Debug/net8.0/ref/Domain.dll
